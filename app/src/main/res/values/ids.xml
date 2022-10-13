@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="capa1" type="id">@id/capa1</item>
+    <item name="capa2" type="id">@id/capa2</item>
+    <item name="et_texto_capa1" type="id">@id/et_texto_capa1</item>
+    <item name="et_texto_capa2" type="id">@id/et_texto_capa2</item>
+    <item name="btn_enviar" type="id">@id/btn_enviar</item>
+</resources>
